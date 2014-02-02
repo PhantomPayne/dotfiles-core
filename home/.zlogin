@@ -1,0 +1,1 @@
+.zprezto/runcom/.zlogin
